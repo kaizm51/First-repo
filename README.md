@@ -1,2 +1,3 @@
 # First-repo
-github learning
+started to github
+see what s gonna happen!
